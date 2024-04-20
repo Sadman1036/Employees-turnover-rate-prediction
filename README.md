@@ -1,5 +1,5 @@
-HR-Analytics-Employee-Turnover-Prediction
-
+**HR-Analytics-Employee-Turnover-Prediction
+******
 In our machine learning project, we aim to develop a predictive model for employee turnover within companies. Employee churn is a significant challenge that many organizations face, leading to increased recruitment costs, productivity losses, and disruptions in team dynamics (Society for Human Resource Management, 2019). On average, turnover costs companies between 50% to 200% of an employee's annual salary, including expenses for recruitment, training, and lost productivity (Boushey & Glynn, 2012).
 
 The market for machine learning solutions in HR analytics and employee retention is substantial, with businesses across various industries seeking efficient ways to manage their workforce and minimize turnover. According to industry reports, the global market for HR analytics solutions is projected to reach $3.6 billion by 2025, driven by the increasing adoption of data-driven HR strategies (MarketsandMarkets, 2020).
